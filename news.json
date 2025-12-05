@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "news": [
+    {
+      "id": 1,
+      "title": "New Technology Unveiled",
+      "category": "Technology",
+      "author": "John Williams",
+      "date": "2025-12-05"
+    },
+    {
+      "id": 2,
+      "title": "Political Summit Highlights",
+      "category": "Politics",
+      "author": "Anita Verma",
+      "date": "2025-12-04"
+    },
+    {
+      "id": 3,
+      "title": "Sports Day National Event",
+      "category": "Sports",
+      "author": "Rohit Sharma",
+      "date": "2025-12-03"
+    },
+    {
+      "id": 4,
+      "title": "Business Growth Trends in 2025",
+      "category": "Business",
+      "author": "Priya Singh",
+      "date": "2025-12-01"
+    }
+  ]
+}
