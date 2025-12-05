@@ -30,7 +30,118 @@
       "category": "Business",
       "author": "Priya Singh",
       "date": "2025-12-01"
+    },
+    {
+      "id": 5,
+      "title": "Record-Breaking Winter Snowfall Hits Europe",
+      "category": "World",
+      "author": "Emily Carter",
+      "date": "2025-11-30"
+    },
+    {
+      "id": 6,
+      "title": "Space Mission Successfully Deploys Satellite",
+      "category": "Science",
+      "author": "Dr. Alan Cooper",
+      "date": "2025-11-28"
+    },
+    {
+      "id": 7,
+      "title": "Stock Markets Show Positive Growth",
+      "category": "Business",
+      "author": "Kabir Malhotra",
+      "date": "2025-11-27"
+    },
+    {
+      "id": 8,
+      "title": "National Art Festival Opens Today",
+      "category": "Culture",
+      "author": "Sara Khan",
+      "date": "2025-11-26"
+    },
+    {
+      "id": 9,
+      "title": "Youth Cricket Team Wins Asia Cup",
+      "category": "Sports",
+      "author": "Vikas Kumar",
+      "date": "2025-11-25"
+    },
+    {
+      "id": 10,
+      "title": "Tech Giants Announce Joint AI Research",
+      "category": "Technology",
+      "author": "Laura Adams",
+      "date": "2025-11-24"
+    },
+    {
+      "id": 11,
+      "title": "Global Peace Meet Discusses Border Cooperation",
+      "category": "Politics",
+      "author": "Michael Brown",
+      "date": "2025-11-22"
+    },
+    {
+      "id": 12,
+      "title": "Tourism Sector Recovers After Holiday Season",
+      "category": "Travel",
+      "author": "Nisha Mehta",
+      "date": "2025-11-20"
+    },
+    {
+      "id": 13,
+      "title": "Solar Car Prototype Breaks Speed Record",
+      "category": "Technology",
+      "author": "Kevin Moore",
+      "date": "2025-11-18"
+    },
+    {
+      "id": 14,
+      "title": "Education Reforms Aim to Boost Research",
+      "category": "Education",
+      "author": "Dr. Meera Nair",
+      "date": "2025-11-17"
+    },
+    {
+      "id": 15,
+      "title": "Historic Peace Treaty Approved by Nations",
+      "category": "World",
+      "author": "Omar Hussein",
+      "date": "2025-11-16"
+    },
+    {
+      "id": 16,
+      "title": "Grand Theatre Awards Announced",
+      "category": "Entertainment",
+      "author": "Tina Kapoor",
+      "date": "2025-11-15"
+    },
+    {
+      "id": 17,
+      "title": "Wildlife Preservation Mission Sees Success",
+      "category": "Environment",
+      "author": "Dr. Arjun Rathod",
+      "date": "2025-11-14"
+    },
+    {
+      "id": 18,
+      "title": "New Culinary Trends Captivate Young Foodies",
+      "category": "Lifestyle",
+      "author": "Rhea Malhotra",
+      "date": "2025-11-13"
+    },
+    {
+      "id": 19,
+      "title": "Startup Expo Witnesses Record Investors",
+      "category": "Business",
+      "author": "James Walker",
+      "date": "2025-11-12"
+    },
+    {
+      "id": 20,
+      "title": "International Film Festival to Begin Next Week",
+      "category": "Entertainment",
+      "author": "Aditi Sharma",
+      "date": "2025-11-11"
     }
   ]
 }
-
